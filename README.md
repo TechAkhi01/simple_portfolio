@@ -1,0 +1,2 @@
+Welcome to My Portfolio
+I'm Bello Abdulssalam Adewale, a passionate web developer specializing in building modern, responsive websites using HTML, CSS, and JavaScript. This portfolio showcases my work in web design, highlighting projects that emphasize clean design, user-friendly interfaces, and optimized performance. Explore my featured projects, skills, and experience, and see how I bring creative ideas to life through code.
